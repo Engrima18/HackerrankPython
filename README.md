@@ -13,5 +13,5 @@
 ... A pdf flie with all the screenshots of the submissions inside (sorted by challenge)
 
 ## meta-data
-.* Completion date: 6th oct 2022
-.* User on hackerrank: Enrico Grimaldi
+..* Completion date: 6th oct 2022
+..* User on hackerrank: Enrico Grimaldi
