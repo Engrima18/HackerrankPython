@@ -4,7 +4,7 @@
 ## content
 
 1. scripts.py
-... The collection of exercises written consecutively on a single file 
+>- The collection of exercises written consecutively on a single file 
 ... The excercices are sorted by challenge and every single exercise is preceded by its own title (the number and the challenge group are not reported
 ... The last 4 excercices of regex group and "Recursive Digit Sum" refer to the "discussions" section of the site itself and/or the stackoverflow site 
 ... The code is written in both python3 and PyPy 3
