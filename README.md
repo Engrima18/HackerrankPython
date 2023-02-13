@@ -14,6 +14,6 @@
 
 ## meta-data
 * Completion date: 6th oct 2022
+* User: Enrico Grimaldi 
+ ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 
-* ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
- > User: Enrico Grimaldi 
