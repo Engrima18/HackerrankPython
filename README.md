@@ -1,6 +1,6 @@
 # HackerrankPython
 ### Homework 1 for the course of ALGORITHMIC METHODS OF DATA MINING AND LABORATORY (2022/23)
-
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/hjUYcGyhsGvI7not7w/video" width="480"></iframe></div>
 ## content
 
 1. `scripts.py`
